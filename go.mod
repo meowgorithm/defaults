@@ -1,3 +1,3 @@
-module github.com/charmbracelet/defaults
+module github.com/meowgorithm/defaults
 
 go 1.17
